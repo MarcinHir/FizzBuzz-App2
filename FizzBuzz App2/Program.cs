@@ -21,7 +21,7 @@ namespace FizzBuzz_App2
                 else
                 {
                     Console.WriteLine(game.GetNumber(number));
-                    break;
+                    
                 }
 
 
